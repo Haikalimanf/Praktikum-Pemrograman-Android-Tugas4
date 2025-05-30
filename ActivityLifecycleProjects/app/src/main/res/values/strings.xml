@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityLifecycleProjects</string>
+    <string name="activity">Halaman Activity 1</string>
+    <string name="activity2">Halaman Activity 2</string>
+    <string name="activity3">Halaman Activity 3</string>
+    <string name="pindah">Pindah Halaman</string>
+</resources>
