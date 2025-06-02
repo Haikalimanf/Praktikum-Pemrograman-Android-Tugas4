@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FromFGDMVVMProjects</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title">Daftar Hadir FGD</string>
+    <string name="title_app_result">Anda Telah Berhasil Terdaftar</string>
+    <string name="nama_hint">Ketik Nama Lengkap Anda</string>
+    <string name="nama">Nama Anda</string>
+    <string name="telefon">No Hp Aktif</string>
+    <string name="telefon_hint">Ketikan Nomor Telefon Aktif Anda</string>
+    <string name="email">Email Anda</string>
+    <string name="email_hint">Ketikan Email Anda</string>
+
+    <string name="rad_gender">Jenis Kelamin</string>
+    <string name="rad_laki">Laki-Laki</string>
+    <string name="rad_perempuan">Perempuan</string>
+
+    <string name="chk_skillset">Skillset Anda</string>
+    <string name="chk_algo">Algoritma</string>
+    <string name="chk_problem_solving">Program Solving</string>
+    <string name="chk_programming">Programming</string>
+    <string name="chk_design">Design</string>
+    <string name="chk_critical_thinking">Critical Thinking</string>
+
+    <string name="kategori">Kategori Peserta</string>
+    <string name="submit">Simpan</string>
+    <string name="info_pengembang">Info Pengembang</string>
+
+    <string-array name="kategori_peserta">
+        <item>Akademisi</item>
+        <item>Komunitas</item>
+        <item>Pemerintah</item>
+        <item>Media</item>
+        <item>Pembisnis</item>
+    </string-array>
+</resources>
