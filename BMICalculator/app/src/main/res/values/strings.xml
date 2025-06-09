@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="nim">NIM 10122196</string>
+    <string name="nama">Haikal Iman Firdaus</string>
+    <string name="developer">Developer by : </string>
+
+
+    <string name="app_name">BMI Calculator</string>
+    <string name="title_berat">Berat Badan</string>
+    <string name="hint_berat">Berat Badan (kg)</string>
+    <string name="title_tinggi">Tinggi Badan</string>
+    <string name="hint_tinggi">Tinggi Badan (cm)</string>
+    <string name="title_result">BMI Result</string>
+
+    <string name="hitung_Bmi">Hitung BMI</string>
+    <string name="info_pengembang">Info Pengembang</string>
+
+    <string name="result_bmi">Nilai BMI Anda : %.2f</string>
+    <string name="result_kategori">Kategori BMI Anda : %s</string>
+
+</resources>
